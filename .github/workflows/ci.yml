@@ -62,3 +62,5 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
           repository: simonphoenix83/samsung-tv-ws-api
           tags: matest, ${{ github.run_number }}
+
+# temp    
